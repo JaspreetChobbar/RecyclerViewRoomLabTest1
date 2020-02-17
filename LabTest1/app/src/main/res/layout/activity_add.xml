@@ -63,6 +63,7 @@
                 android:ems="10"
                 android:gravity="center"
                 android:hint="Age"
+                      android:maxLength="2"
                 android:inputType="number" />
 
             <TextView
